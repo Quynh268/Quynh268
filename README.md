@@ -1,14 +1,8 @@
-# 💫 About Me:
+### 🔗 WELCOME TO MY PAGE 👋👋👋
 
-- 🔭 I’m currently working on **full-stack web applications and mobile development (Flutter).**
-- 🌱 I’m currently learning **Data Mining techniques and improving my UI/UX design skills with Figma.**
-- 👯 I’m looking to collaborate on **creative open-source projects and interesting app ideas.**
-- 🤝 I’m looking for help with **scalable backend architectures and UI design.**
-- 💬 Ask me about **.NET, ReactJS, or database management.**
-- ⚡ Fun fact: **I run on coffee, code, and a good game of badminton 🏸**
+My name is Quynh. I am a recent Software Engineering graduate, focusing on Full-stack Web and Mobile Development. I am interested in the following topics: Backend Architecture with .NET, Cross-platform Mobile Apps (Flutter), and Data Mining.
 
-
-## 🌐 Socials:
+**📫 Reach out to me:**
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/quynh268) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamaquynh@gmail.com)
 
 # 💻 Tech Stack:
